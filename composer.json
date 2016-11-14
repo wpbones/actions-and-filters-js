@@ -1,0 +1,36 @@
+{
+  "name": "wpbones/actions-and-filters-js",
+  "version": "1.0.3",
+  "homepage": "https://github.com/wpbones/actions-and-filters-js",
+  "license": "MIT",
+  "type": "library",
+  "description": "WordPress actions and filters in Javascript",
+  "keywords": [
+    "actions",
+    "filters",
+    "Javascript",
+    "WP Bones"
+  ],
+  "authors": [
+    {
+      "name": "Giovambattista Fazioli",
+      "email": "giovambattista.fazioli@gmail.com",
+      "homepage": "http://undolog.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wpbones/actions-and-filters-js.git"
+  },
+  "support": {
+    "email": "giovambattista.fazioli@gmail.com",
+    "issues": "https://github.com/wpbones/actions-and-filters-js/issues"
+  },
+  "autoload": {
+    "psr-4": {
+      "WPKirk\\ActionsAndFiltersJS\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": "true"
+}
