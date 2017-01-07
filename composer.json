@@ -1,6 +1,6 @@
 {
   "name": "wpbones/actions-and-filters-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/wpbones/actions-and-filters-js",
   "license": "MIT",
   "type": "library",
@@ -32,5 +32,5 @@
     }
   },
   "minimum-stability": "stable",
-  "prefer-stable": "true"
+  "prefer-stable": true
 }
