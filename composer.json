@@ -1,6 +1,5 @@
 {
   "name": "wpbones/actions-and-filters-js",
-  "version": "1.0.4",
   "homepage": "https://github.com/wpbones/actions-and-filters-js",
   "license": "MIT",
   "type": "library",
@@ -15,13 +14,9 @@
     {
       "name": "Giovambattista Fazioli",
       "email": "giovambattista.fazioli@gmail.com",
-      "homepage": "http://undolog.com"
+      "homepage": "http://wpbones.wordpress.com"
     }
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wpbones/actions-and-filters-js.git"
-  },
   "support": {
     "email": "giovambattista.fazioli@gmail.com",
     "issues": "https://github.com/wpbones/actions-and-filters-js/issues"
