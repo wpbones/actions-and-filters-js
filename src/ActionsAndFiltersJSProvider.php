@@ -5,29 +5,42 @@ namespace WPKirk\ActionsAndFiltersJS;
 class ActionsAndFiltersJSProvider
 {
 
-  public static function js( $minified = true )
+  /**
+   * Get the URL of the JS file
+   *
+   * @param boolean $minified
+   * @return string
+   */
+  public static function js($minified = true)
   {
     $file = __FILE__;
 
-    $path = rtrim( plugin_dir_url( $file ), '\/' );
+    $path = rtrim(plugin_dir_url($file), '\/');
 
     $minified = $minified ? ".min" : "";
 
-    $css = "{$path}/public/js/actions-and-filters{$minified}.js";
+    $js = "{$path}/public/js/actions-and-filters{$minified}.js";
 
-    return $css;
+    return $js;
   }
 
-  public static function enqueueScripts( $minified = true )
+  /**
+   * Enqueue the JS file
+   *
+   * @param boolean $minified
+   * @return string
+   */
+  public static function enqueueScripts($minified = true)
   {
     $key = 'actions-and-filters';
-    wp_enqueue_script( $key,
-                       self::js( $minified ),
-                       [],
-                       WPCleanFix()->Version,
-                       true );
+    wp_enqueue_script(
+      $key,
+      self::js($minified),
+      [],
+      WPCleanFix()->Version,
+      true
+    );
 
     return $key;
-
   }
 }
