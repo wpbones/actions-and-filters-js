@@ -1,28 +1,14 @@
 # WordPress actions and filters implementation for Javascript
 
-<p align="center">
+<div align="center">
 
-  <a href="https://packagist.org/packages/wpbones/actions-and-filters-js">
-  <img src="https://poser.pugx.org/wpbones/actions-and-filters-js/v/stable?style=for-the-badge" alt="Latest Stable Version" />
-  </a>
+[![Latest Stable Version](https://poser.pugx.org/wpbones/actions-and-filters-js/v/stable?style=for-the-badge)](https://packagist.org/packages/wpbones/actions-and-filters-js) &nbsp;
+[![Latest Unstable Version](https://poser.pugx.org/wpbones/actions-and-filters-js/v/unstable?style=for-the-badge)](https://packagist.org/packages/wpbones/actions-and-filters-js) &nbsp;
+[![Total Downloads](https://poser.pugx.org/wpbones/actions-and-filters-js/downloads?style=for-the-badge)](https://packagist.org/packages/wpbones/actions-and-filters-js) &nbsp;
+[![License](https://poser.pugx.org/wpbones/actions-and-filters-js/license?style=for-the-badge)](https://packagist.org/packages/wpbones/actions-and-filters-js) &nbsp;
+[![Monthly Downloads](https://poser.pugx.org/wpbones/actions-and-filters-js/d/monthly?style=for-the-badge)](https://packagist.org/packages/wpbones/actions-and-filters-js)
 
-  <a href="https://packagist.org/packages/wpbones/actions-and-filters-js">
-   <img src="https://poser.pugx.org/wpbones/actions-and-filters-js/v/unstable?style=for-the-badge" alt="Latest Unstable Version" />
-  </a>
-
-  <a href="https://packagist.org/packages/wpbones/actions-and-filters-js">
-   <img src="https://poser.pugx.org/wpbones/actions-and-filters-js/downloads?style=for-the-badge" alt="Total Downloads" />
-  </a>
-
-  <a href="https://packagist.org/packages/wpbones/actions-and-filters-js">
-   <img src="https://poser.pugx.org/wpbones/actions-and-filters-js/license?style=for-the-badge" alt="License" />
-  </a>
-
-  <a href="https://packagist.org/packages/wpbones/actions-and-filters-js">
-   <img src="https://poser.pugx.org/wpbones/actions-and-filters-js/d/monthly?style=for-the-badge" alt="Monthly Downloads" />
-  </a>
-
-</p>
+</div>
 
 A Javascript version of the actions and filters used in PHP in WordPress for WP Bones.
 
