@@ -37,7 +37,7 @@ class ActionsAndFiltersJSProvider
       $key,
       self::js($minified),
       [],
-      WPCleanFix()->Version,
+      WPKirk()->Version,
       true
     );
 
