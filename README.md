@@ -36,9 +36,9 @@ You may also to add `"wpbones/actions-and-filters-js": "^1.0"` in the `composer.
 
 ```json copy filename="composer.json" {4}
   "require": {
-    "php": ">=7.4",
-    "wpbones/wpbones": "~0.8",
-    "wpbones/actions-and-filters-js": "~1.0"
+    "php": ">=8.1",
+    "wpbones/wpbones": "^3.0",
+    "wpbones/actions-and-filters-js": "^1.0"
   },
 ```
 
