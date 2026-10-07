@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Latest Stable Version](https://poser.pugx.org/wpbones/actions-and-filters-js/v/stable?style=for-the-badge)](https://packagist.org/packages/wpbones/actions-and-filters-js) &nbsp;
-[![Latest Unstable Version](https://poser.pugx.org/wpbones/actions-and-filters-js/v/unstable?style=for-the-badge)](https://packagist.org/packages/wpbones/actions-and-filters-js) &nbsp;
 [![Total Downloads](https://poser.pugx.org/wpbones/actions-and-filters-js/downloads?style=for-the-badge)](https://packagist.org/packages/wpbones/actions-and-filters-js) &nbsp;
 [![License](https://poser.pugx.org/wpbones/actions-and-filters-js/license?style=for-the-badge)](https://packagist.org/packages/wpbones/actions-and-filters-js) &nbsp;
 [![Monthly Downloads](https://poser.pugx.org/wpbones/actions-and-filters-js/d/monthly?style=for-the-badge)](https://packagist.org/packages/wpbones/actions-and-filters-js)
